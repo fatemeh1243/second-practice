@@ -156,7 +156,7 @@ def unlock_vault(clues):
     v=exam_numbers()
     pu=check_pass(users)
     clues=[]
-    clues.append(moo[0][0])
+    clues.append(moo[0])
     clues.append(uoa[0])
     clues.append(opx[0])
     clues.append(exam_numbers)
